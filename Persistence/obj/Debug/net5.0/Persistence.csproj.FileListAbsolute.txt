@@ -1,0 +1,15 @@
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
