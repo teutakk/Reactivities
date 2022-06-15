@@ -5,7 +5,7 @@ import axios from 'axios';
 import { Header, List } from 'semantic-ui-react';
    
 function App() {
-  const [activities, setActivitites]= useState([]);
+  const [activities, setActivitites] = useState([]);
   //it takes no parameters
   useEffect(()=> {
     axios.get('http://localhost:5000/api/activities').then(response => {

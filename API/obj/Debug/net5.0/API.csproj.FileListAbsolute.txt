@@ -61,3 +61,9 @@ C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\AP
 C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\API\bin\Debug\net5.0\MediatR.dll
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\API\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
