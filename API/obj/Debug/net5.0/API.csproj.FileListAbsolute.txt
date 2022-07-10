@@ -67,3 +67,6 @@ C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\AP
 C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\API\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\API\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\krasn\OneDrive\Desktop\UBT\Rindjekje\LabKurs1\LabCourse\Reactivities\API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
