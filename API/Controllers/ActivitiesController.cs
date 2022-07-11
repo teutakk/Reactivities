@@ -23,7 +23,8 @@ namespace API.Controllers
         public async Task<ActionResult<Activity>> GetActivity(Guid id)
         {                                  // new details instance query
             return await Mediator.Send(new Details.Query{Id = id});
-        }
+            
+        } //throwing errors should be avoided bcs program flow
 
         [HttpPost]
         public async Task<IActionResult> CreateActivity(Activity activity)
