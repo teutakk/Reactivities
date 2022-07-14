@@ -10,19 +10,20 @@ import { store, StoreContext } from './app/stores/store';
 import { Router } from 'react-router-dom';
 import {createBrowserHistory} from 'history';
 
+export const history = createBrowserHistory();
+
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 
-export const history = createBrowserHistory();
+
 root.render(
+       <StoreContext.Provider value={store}>
        <Router history={history}>
-  <React.StrictMode>
-     <StoreContext.Provider value={store}>
         <App />
-    </StoreContext.Provider>
-  </React.StrictMode>
+  
        </Router>
+    </StoreContext.Provider>
 );
 
 // If you want to start measuring performance in your app, pass a function
