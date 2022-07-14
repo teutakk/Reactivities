@@ -25,7 +25,7 @@ namespace Application.Activities
             {
                 var activity = await _context.Activities.FindAsync(request.Id); 
 
-                if(activity == null) return null;
+                // if(activity == null) return null;
                     //remove activity from memory
                 _context.Remove(activity);
 
