@@ -10,6 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers
 {
+
     [AllowAnonymous]
     [ApiController]
     [Route("api[controller]")]
