@@ -772,6 +772,19 @@
           "bin/placeholder/Domain.dll": {}
         }
       },
+      "Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.dll": {}
+        }
+      },
       "Persistence/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -2038,6 +2051,11 @@
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
     },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure/Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Infrastructure.csproj"
+    },
     "Persistence/1.0.0": {
       "type": "project",
       "path": "../Persistence/Persistence.csproj",
@@ -2047,6 +2065,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Application >= 1.0.0",
+      "Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.1",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.4",
       "Swashbuckle.AspNetCore >= 5.6.3"
@@ -2081,6 +2100,9 @@
           "projectReferences": {
             "C:\\Users\\krasn\\OneDrive\\Desktop\\UBT\\Rindjekje\\LabKurs1\\LabCourse\\Reactivities\\Application\\Application.csproj": {
               "projectPath": "C:\\Users\\krasn\\OneDrive\\Desktop\\UBT\\Rindjekje\\LabKurs1\\LabCourse\\Reactivities\\Application\\Application.csproj"
+            },
+            "C:\\Users\\krasn\\OneDrive\\Desktop\\UBT\\Rindjekje\\LabKurs1\\LabCourse\\Reactivities\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\krasn\\OneDrive\\Desktop\\UBT\\Rindjekje\\LabKurs1\\LabCourse\\Reactivities\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
